@@ -1,4 +1,4 @@
 # phpMidterm
 
-user - student@student.com , password
-admin - admin@admin.com, password
+user - student@student.com , password -> password
+admin - admin@admin.com, password ->password
